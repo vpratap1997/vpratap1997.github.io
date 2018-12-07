@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaibhav Pratap Singh on Vaibhav Pratap Singh</title>
+    <link>https://vpratap1997.github.io//</link>
+    <description>Recent content in Vaibhav Pratap Singh on Vaibhav Pratap Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Formula Student Vehicle : IITK Motorsports</title>
+      <link>https://vpratap1997.github.io//project/fsae/</link>
+      <pubDate>Fri, 07 Dec 2018 18:52:51 +0530</pubDate>
+      
+      <guid>https://vpratap1997.github.io//project/fsae/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Devised brake subsystem for Formula student vehicle (F’18) which participated in Formula Bharat 2018&lt;/li&gt;
+&lt;li&gt;Developed the mathematical model of a reliable and efficient braking system for the vehicle&lt;/li&gt;
+&lt;li&gt;Reconstructed brake actuation assembly to provide efficient braking and pedal response, manufactured in-house&lt;/li&gt;
+&lt;li&gt;Reorganised hydraulic systems to increase driver ergonomics and provide better serviceability to the whole vehicle&lt;/li&gt;
+&lt;li&gt;Designed rotor and brake pedal assemblies to operate under varying loads for an elongated period of time&lt;/li&gt;
+&lt;li&gt;Solved a case study on appropriate mass manufacturing process and capital outlay at Formula Bharat 2018 for a Business
+Logic Presentation event, bagging 6th position among 71 national teams&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BAJA - All Terrain Vehicle : IITK Motorsports</title>
+      <link>https://vpratap1997.github.io//project/baja/</link>
+      <pubDate>Thu, 06 Dec 2018 18:51:09 +0530</pubDate>
+      
+      <guid>https://vpratap1997.github.io//project/baja/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Formulating Brakes and Vehicle dynamics subsystem for BAJA (B’19) to feature in Enduro Student India 2019&lt;/li&gt;
+&lt;li&gt;Optimized vehicle’s braking parameters for panic braking conditions of 60 kmph to 0 kmph in just 2.5 secs&lt;/li&gt;
+&lt;li&gt;Studied concepts of vehicle dynamics and tire behavior under braking conditions to determine brake force distribution&lt;/li&gt;
+&lt;li&gt;Analyzed structural integrity of disc brake rotors under mechanical &amp;amp; thermal loads using FEM, following design changes&lt;/li&gt;
+&lt;li&gt;Revamped brake pedal assembly to minimize deformation as per driver ergonomics&lt;/li&gt;
+&lt;li&gt;Upgraded the wheel assembly to incorporate design changes in suspension geometry of the vehicle&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multipurpose Machine (Course Project: TA202, Machining Processes)</title>
+      <link>https://vpratap1997.github.io//project/ta202/</link>
+      <pubDate>Wed, 05 Dec 2018 19:18:49 +0530</pubDate>
+      
+      <guid>https://vpratap1997.github.io//project/ta202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Awarded as the Best Project of the course in the semester 2017-18&lt;/li&gt;
+&lt;li&gt;Led a 6 member team to build a Multipurpose Machine model capable of performing various mechanical tasks such as
+grinding, slashing, drilling and cutting simultaneously&lt;/li&gt;
+&lt;li&gt;Acquired hands on experience on conventional machining techniques like turning, milling, drilling and boring.&lt;/li&gt;
+&lt;li&gt;Examined industrial implementation of machinery, including its cost analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Processing of Thermal Images</title>
+      <link>https://vpratap1997.github.io//project/img/</link>
+      <pubDate>Wed, 05 Dec 2018 19:06:34 +0530</pubDate>
+      
+      <guid>https://vpratap1997.github.io//project/img/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Administered in-built image processing toolbox, MATLAB to detect thermal signatures in a human face image data&lt;/li&gt;
+&lt;li&gt;Employed normalized 2-D cross-correlation to detect various feature points of a human face&lt;/li&gt;
+&lt;li&gt;Extracted, compiled and analyzed user temperature data to generate statistical reports&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
